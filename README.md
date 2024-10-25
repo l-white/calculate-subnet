@@ -27,7 +27,7 @@ The company has been assigned the IP address range `10.0.0.0/22`. You need to cr
 2. **Address Allocation:**
    - Allocate IP addresses to each server category based on the calculated subnets.
 
-## Requirements
+## Solution
 
 Document your solution with the following details for each server category:
 
@@ -36,8 +36,6 @@ Document your solution with the following details for each server category:
 - Subnet mask
 - Network address
 - Range of usable IP addresses
-
-## Solution
 
 ### 1. Calculate the number of required IP addresses for each server
 - Web Servers: 75
