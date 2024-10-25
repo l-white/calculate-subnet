@@ -59,19 +59,19 @@ Subnet mask: 255.255.255.128/25
 - 3rd subnet: 10.0.0.00000001.0 | 0000000 = 10.0.0.0/25
 
 #### Web Servers
-**Network:** 10.0.0.0
-**1st Host:** 10.0.0.1
-**Last Host:** 10.0.0.126
-**Broadcast Address:** 10.0.0.127
+- **Network:** 10.0.0.0
+- **1st Host:** 10.0.0.1
+- **Last Host:** 10.0.0.126
+- **Broadcast Address:** 10.0.0.127
 
 #### Database Servers
-**Network:** 10.0.0.128
-**1st Host:** 10.0.0.129
-**Last Host:** 10.0.0.254
-**Broadcast Address:** 10.0.0.255
+- **Network:** 10.0.0.128
+- **1st Host:** 10.0.0.129
+- **Last Host:** 10.0.0.254
+- **Broadcast Address:** 10.0.0.255
 
 #### Application Servers
-**Network:** 10.0.1.0
-**1st Host:** 10.0.1.1
-**Last Host:** 10.0.1.126
-**Broadcast Address:** 10.0.1.127
+- **Network:** 10.0.1.0
+- **1st Host:** 10.0.1.1
+- **Last Host:** 10.0.1.126
+- **Broadcast Address:** 10.0.1.127
